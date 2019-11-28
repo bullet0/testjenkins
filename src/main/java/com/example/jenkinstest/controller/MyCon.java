@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyCon {
     @RequestMapping("/a")
     public String aaa(){
-        return "好了";
+        return "好了222";
     }
 
 }
